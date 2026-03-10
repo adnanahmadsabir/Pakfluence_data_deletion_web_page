@@ -33299,12 +33299,12 @@ if(o<p){j=i.oQ(o)
 if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.z3.prototype={
-M(a){return new A.rz(B.yc,"Account Deletion | Your App Name",A.a7f(null,null,B.hH,!0),null)}}
+M(a){return new A.rz(B.yc,"Pakfluence",A.a7f(null,null,B.hH,!0),null)}}
 A.zg.prototype={
 mx(a){return this.Sd(a)},
 Sd(a){var s=0,r=A.R(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$mx=A.S(function(b,c){if(b===1){p.push(c)
-s=q}for(;;)switch(s){case 0:k=A.id("mailto:Pakfluence@gmail.com?subject="+A.oM(2,"Account Deletion Request - Your App Name",B.T,!1)+"&body="+A.oM(2,"I would like to request the deletion of my account and all associated data.",B.T,!1),0,null)
+s=q}for(;;)switch(s){case 0:k=A.id("mailto:Pakfluence@gmail.com?subject="+A.oM(2,"Account Deletion Request - Pakfluence",B.T,!1)+"&body="+A.oM(2,"I would like to request the deletion of my account and all associated data.",B.T,!1),0,null)
 q=3
 s=6
 return A.U(A.a5b(k,B.zG),$async$mx)
@@ -33332,7 +33332,7 @@ case 1:return A.O(p.at(-1),r)}})
 return A.Q($async$mx,r)},
 Ef(a){var s=null
 a.aa(t.Cu).f.zP(A.abH(new A.ue("Copy Email",new A.MC(this,a),s),s,s,s,s,B.al,s,A.De("Could not open email app. Please email Pakfluence@gmail.com",s),s,B.yr,s,s,s,s,s,s,s,s,s,s))},
-M(a){var s=this,r=null,q=A.De("Your App Name Support",r),p=s.tv("1","Click the 'Request Deletion' button below."),o=s.tv("2","Send the pre-filled email with your registered email address."),n=s.tv("3","Our team will verify your identity and purge all data within 30 days."),m=A.aiG(r,r,B.p7,r,r,r,r,r,r,B.i,r,r,B.yN,r,r,r,r,r,r,r)
+M(a){var s=this,r=null,q=A.De("Pakfluence Support",r),p=s.tv("1","Click the 'Request Deletion' button below."),o=s.tv("2","Send the pre-filled email with your registered email address."),n=s.tv("3","Our team will verify your identity and purge all data within 30 days."),m=A.aiG(r,r,B.p7,r,r,r,r,r,r,B.i,r,r,B.yN,r,r,r,r,r,r,r)
 return new A.tM(new A.ps(q,!0,new A.Hi(r,r,1/0,56),r),A.mw(A.Me(r,A.ahS(A.d([B.zf,B.GQ,B.LU,B.GP,B.LS,B.yn,p,o,n,B.GR,A.mw(new A.zB(!0,new A.MD(s,a),r,r,r,m,B.I,r,!1,r,!0,r,new A.Fh(B.LT,B.zg,m,r,r),r),r,r)],t.Y),B.aH,B.oX),B.I,B.vG,r,r,r,r,B.yM,r,r,r),r,r),r)},
 tv(a,b){return new A.dV(B.yH,A.VD(A.d([new A.yw(A.De(a,B.Lq),12,null),B.GN,A.a9Q(A.De(b,B.JI))],t.Y),B.aH,B.bt,B.d3,0),null)}}
 A.MC.prototype={
